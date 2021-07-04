@@ -8,6 +8,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+我会在那里见到你，等不及要开始了这
+此存储库已根据[MIT] (../LICENSE) (c) 2019 GitHub, Inc. 获得许可。我的第一次编辑
